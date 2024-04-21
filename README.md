@@ -88,3 +88,5 @@ https://code.visualstudio.com/docs/setup/windows
 
 ## Start learning about Linux Commands to prepare you for Linux Class
 https://linuxcommandlibrary.com/
+
+## Feel free to clone this repository
